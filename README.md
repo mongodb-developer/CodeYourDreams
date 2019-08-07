@@ -10,7 +10,7 @@ Lesson 1 focuses on database fundamentals.  You'll explore what a database is an
 
 Slides:  Coming soon!
 
-Presenter Jupyter Notebook:  Coming soon!
+[Presenter Jupyter Notebook](https://github.com/mongodb-developer/CodeYourDreams/blob/master/IntroToDatabasesLesson1.ipynb)
 
 Student Lab Jupyter Notebook:  Coming soon!
 
