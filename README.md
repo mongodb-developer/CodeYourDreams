@@ -34,4 +34,4 @@ If you have suggestions to improve the materials, submit a pull request.  If you
 
 ## About the Authors
 
-[Ken Alger](https://github.com/kenwalger) and [Lauren Schaefer](https://github.com/ljhaywar) authored the original materials in this repo.  
+[Ken W. Alger](https://github.com/kenwalger) and [Lauren Schaefer](https://github.com/ljhaywar) authored the original materials in this repo.  
