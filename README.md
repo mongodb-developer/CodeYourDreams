@@ -12,7 +12,7 @@ Slides:  Coming soon!
 
 [Presenter Jupyter Notebook](https://github.com/mongodb-developer/CodeYourDreams/blob/master/IntroToDatabasesLesson1.ipynb)
 
-Student Lab Jupyter Notebook:  Coming soon!
+[Student Lab Jupyter Notebook](https://github.com/mongodb-developer/CodeYourDreams/blob/master/IntroToDatabasesLab1.ipynb)
 
 Presenter training: Coming soon!
 
