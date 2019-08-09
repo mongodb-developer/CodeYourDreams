@@ -4,23 +4,23 @@ This repo contains the materials for the Intro to Databases courses that are par
 
 Each lesson is designed to have about 25 minutes of instructor-led learning and 25 minutes of hands-on lab exercises.
 
+## Slides
+
+Slides for both lessons are available in the same deck.  A downloadable copy of the slides is available [in this repo](Code%20Your%20Dreams_%20Intro%20to%20Databases.pptx).  If you do not have access to PowerPoint, you can access a published version of the slides online [here](https://docs.google.com/presentation/d/e/2PACX-1vRhlq_hGvEwPEB7o8i-XZc4r-fhyAhMsOfWTtW3DKZtx0NhiJIW4dEx4PBmrX221BrUgxhBDRQA6-Ha/pub?start=false&loop=false&delayms=3000).  Speaker notes are included in both versions of the slides.
+
 ## Lesson 1
 
 Lesson 1 focuses on database fundamentals.  You'll explore what a database is and how you store data in a database.
 
-Slides:  Coming soon!
-
 [Presenter Jupyter Notebook](https://github.com/mongodb-developer/CodeYourDreams/blob/master/IntroToDatabasesLesson1.ipynb)
 
-[Student Lab Jupyter Notebook](https://github.com/mongodb-developer/CodeYourDreams/blob/master/IntroToDatabasesLab1.ipynb)
-
 Presenter training: Coming soon!
+
+[Student Lab Jupyter Notebook](https://github.com/mongodb-developer/CodeYourDreams/blob/master/IntroToDatabasesLab1.ipynb)
 
 ## Lesson 2
 
 Lesson 2 focuses on how to interact with a database.  You'll explore database queries and how to visualize your data.
-
-Slides:  Coming soon!
 
 [Presenter Jupyter Notebook](https://github.com/mongodb-developer/CodeYourDreams/blob/master/IntroToDatabasesLesson2.ipynb)
 
