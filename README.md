@@ -6,7 +6,7 @@ Each lesson is designed to have about 25 minutes of instructor-led learning and 
 
 ## Slides
 
-Slides for both lessons are available in the same deck.  A downloadable copy of the slides is available [in this repo](Code%20Your%20Dreams_%20Intro%20to%20Databases.pptx).  If you do not have access to PowerPoint, you can access a published version of the slides online [here](https://docs.google.com/presentation/d/e/2PACX-1vRhlq_hGvEwPEB7o8i-XZc4r-fhyAhMsOfWTtW3DKZtx0NhiJIW4dEx4PBmrX221BrUgxhBDRQA6-Ha/pub?start=false&loop=false&delayms=3000).  Speaker notes are included in both versions of the slides.
+Slides for both lessons are available in the same deck.  A downloadable copy of the slides is available [in this repo](Code%20Your%20Dreams_%20Intro%20to%20Databases.pptx).  If you do not have access to PowerPoint, you can access a published version of the slides online [here](http://bit.ly/cyd-slides).  Speaker notes are included in both versions of the slides.
 
 ## Lesson 1
 
@@ -30,7 +30,7 @@ Lesson 2 focuses on how to interact with a database.  You'll explore database qu
 
 ## Troubleshooting
 
-If you have trouble connecting to your database or are not getting any results when you try to access your database through Python code, be sure your current IP address is whitelisted.  Your IP address can change for a variety of reasons, so this is a good place to start troubleshooting.  See the [MongoDB Documentation](https://docs.atlas.mongodb.com/security-whitelist/#add-whitelist-entries) for detailed instructions on how to whitelist your IP address in MongoDB Atlas.
+If you have trouble connecting to your database or are not getting any results when you try to access your database through Python code, be sure your current IP address is whitelisted.  Your IP address can change for a variety of reasons, so this is a good place to start troubleshooting.  See the [MongoDB Documentation](http://bit.ly/cyd-atlas) for detailed instructions on how to whitelist your IP address in MongoDB Atlas.
 
 ## Suggestions and Quesions
 
